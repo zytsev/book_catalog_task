@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "The Body",
+        "author": "Stephen King",
+        "description": "Powerful novel that takes you back to a nostalgic time, exploring both the beauty and danger and loss of innocence that is youth.",
+        "image": "/src/assets/images/king.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Days of Distraction",
+        "author": "Alexandra Chang",
+        "description": "A sardonic view of Silicon Valley culture, a meditation on race, and a journal of displacement and belonging, all in one form-defying package of spare prose.",
+        "image": "/src/assets/images/chang.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Crude: A Memoir",
+        "author": "Pablo Fajardo & ​​Sophie Tardy-Joubert",
+        "description": "Drawing and color by Damien Roudeau | This book illustrates the struggles of a group of indigenous Ecuadoreans as they try to sue the ChevronTexaco company for damage their oil fields did to the Amazon and her people",
+        "image": "/src/assets/images/memuar.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Octopus Museum: Poems",
+        "author": "Brenda Shaughnessy",
+        "description": "This collection of bold and scathingly beautiful feminist poems imagines what comes after our current age of environmental destruction, racism, sexism, and divisive politics.",
+        "image": "/src/assets/images/poems.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Casual Conversation",
+        "author": "Renia White",
+        "description": "White's impressive debut collection takes readers through and beyond the concepts of conversation and the casual - both what we say to each other and what we don't, examining the possibilities around how we construct and communicate identity. ",
+        "image": "/src/assets/images/white.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Rickey: The Life and Legend",
+        "author": "Howard Bryant",
+        "description": "With the fall rolling around, one can't help but think of baseball's postseason coming up! And what better way to prepare for it than reading the biography of one of the game's all-time greatest performers, the Man of Steal, Rickey Henderson?",
+        "image": "/src/assets/images/rickey.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Carry: A Memoir of Survival on Stolen Land",
+        "author": "Toni Jenson",
+        "description": "This memoir about the author's relationship with gun violence feels both expansive and intimate, resulting in a lyrical indictment of the way things are.",
+        "image": "/src/assets/images/carry.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Dominicana",
+        "author": "Angie Cruz",
+        "description": "A fascinating story of a teenage girl who marries a man twice her age with the promise to bring her to America. Her marriage is an opportunity for her family to eventually immigrate. For fans of Isabel Allende and Julia Alvarez.",
+        "image": "/src/assets/images/cruz.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Let My People Go Surfing",
+        "author": "Yvon Chouinard",
+        "description": "Chouinard—climber, businessman, environmentalist—shares tales of courage and persistence from his experience of founding and leading Patagonia, Inc. Full title: Let My People Go Surfing: The Education of a Reluctant Businessman, Including 10 More Years of Business Unusual.",
+        "image": "/src/assets/images/choirnad.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Shark Dialogues: A Novel",
+        "author": "Kiana Davenport",
+        "description": "An epic saga of seven generations of one family encompasses the tumultuous history of Hawaii as a Hawaiian woman gathers her four granddaughters together in an erotic tale of villains and dreamers, queens and revolutionaries, lepers and healers.",
+        "image": "/src/assets/images/kiana.jpg"
+    },
+    {
+        "id": 11,
+        "title": "The Great Fire",
+        "author": "Lou Ureneck",
+        "description": "The harrowing story of an ordinary American and a principled Naval officer who, horrified by the burning of Smyrna, led an extraordinary rescue effort that saved a quarter of a million refugees from the Armenian Genocide",
+        "image": "/src/assets/images/urenech.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Slug: And Other Stories",
+        "author": "Megan Milks",
+        "description": "Exes Tegan and Sara find themselves chained together by hairballs of codependency. A father and child experience the shared trauma of giving birth to gods from their wounds.",
+        "image": "/src/assets/images/king.jpg"
+    }
+]
