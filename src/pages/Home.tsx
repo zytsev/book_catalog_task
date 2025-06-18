@@ -1,4 +1,5 @@
-import BookList from '../components/BookList';
+import BookList from "../components/bookList";
+
 
 export default function Home() {
     return (
