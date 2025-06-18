@@ -1,12 +1,15 @@
 import './App.css';
-import BookList from './components/bookList';
+import { Route, Routes } from 'react-router-dom';
+
+import BookPage from './pages/BookPage';
+import Home from './pages/Home';
 
 function App() {
     return (
-        <>
-            <h1>Book Catalog</h1>
-            <BookList />
-        </>
+        <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/book/:id' element={<BookPage />} />
+        </Routes>
     );
 }
 
