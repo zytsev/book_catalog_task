@@ -14,6 +14,7 @@ export interface Book {
 
 export default function BookItem({ book }: { book: Book }) {
     const { id, title, author, image } = book;
+
     return (
         <ListItemButton component={Link} to={`book/${id}`}>
             <ListItemAvatar>
